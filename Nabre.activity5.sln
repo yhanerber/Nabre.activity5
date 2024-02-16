@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nabre.activity5", "Nabre.activity5\Nabre.activity5.vbproj", "{B210A22B-9BD4-46E3-AF26-2CDFFB940B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B210A22B-9BD4-46E3-AF26-2CDFFB940B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B210A22B-9BD4-46E3-AF26-2CDFFB940B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B210A22B-9BD4-46E3-AF26-2CDFFB940B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B210A22B-9BD4-46E3-AF26-2CDFFB940B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA31CEB-2190-4E67-89CB-5CEDBCFC25D4}
+	EndGlobalSection
+EndGlobal
